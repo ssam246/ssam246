@@ -2,10 +2,10 @@
 
 # 🌟 Hi, I'm Stephen!  
 I’m a **grad student**, **researcher**, **developer**, **hacker**, and **filmmaker**.  
-I wear many hats, and I love exploring the intersections between technology, creativity, and innovation. 🚀  
+I wear many hat and I love exploring the intersections between technology, creativity, and innovation. 🚀  
 
 # 🧠 What Drives Me  
-- 🔬 **Research**: Turning curiosity into groundbreaking discoveries.  
+- 🔬 **Research**: Turning curiosity into innovative discoveries.  
 - 💻 **Development**: Crafting impactful software solutions.  
 - 🎥 **Filmmaking**: Storytelling through the lens of a camera.  
 - 🛠️ **Hacking**: Pushing boundaries and solving problems creatively. 
